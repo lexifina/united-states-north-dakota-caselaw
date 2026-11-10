@@ -608,16 +608,13 @@ reference	path
 11 N.D. 484	decisions/north-dakota-supreme-court/1903/11-N-D-484.md
 11 N.D. 494	decisions/north-dakota-supreme-court/1903/11-N-D-494.md
 11 N.D. 514	decisions/north-dakota-supreme-court/1903/11-N-D-514.md
-11 N.D. 519	decisions/north-dakota-supreme-court/1903/11-N-D-520--cap-2569456.md
-11 N.D. 520	decisions/north-dakota-supreme-court/1903/11-N-D-520--cap-2569456.md
+11 N.D. 519	decisions/north-dakota-supreme-court/1903/11-N-D-520.md
 11 N.D. 520	decisions/north-dakota-supreme-court/1903/11-N-D-520.md
-11 N.D. 521	decisions/north-dakota-supreme-court/1903/11-N-D-521.md
-11 N.D. 522	decisions/north-dakota-supreme-court/1903/11-N-D-522.md
-11 N.D. 523	decisions/north-dakota-supreme-court/1903/11-N-D-524--cap-2569321.md
-11 N.D. 524	decisions/north-dakota-supreme-court/1903/11-N-D-524--cap-2569321.md
+11 N.D. 521	decisions/north-dakota-supreme-court/1903/11-N-D-520.md
+11 N.D. 522	decisions/north-dakota-supreme-court/1903/11-N-D-520.md
+11 N.D. 523	decisions/north-dakota-supreme-court/1903/11-N-D-524.md
 11 N.D. 524	decisions/north-dakota-supreme-court/1903/11-N-D-524.md
-11 N.D. 525	decisions/north-dakota-supreme-court/1903/11-N-D-525--cap-2569532.md
-11 N.D. 525	decisions/north-dakota-supreme-court/1903/11-N-D-525.md
+11 N.D. 525	decisions/north-dakota-supreme-court/1903/11-N-D-524.md
 11 N.D. 526	decisions/north-dakota-supreme-court/1903/11-N-D-526.md
 11 N.D. 529	decisions/north-dakota-supreme-court/1903/11-N-D-529.md
 11 N.D. 534	decisions/north-dakota-supreme-court/1903/11-N-D-534.md
@@ -4820,7 +4817,6 @@ reference	path
 196 N.W. 505	decisions/north-dakota-supreme-court/1923/50-N-D-437.md
 196 N.W. 507	decisions/north-dakota-supreme-court/1923/50-N-D-423.md
 196 N.W. 553	decisions/north-dakota-supreme-court/1923/50-N-D-484.md
-196 N.W. 553	decisions/north-dakota-supreme-court/1923/50-N-D-485.md
 196 N.W. 554	decisions/north-dakota-supreme-court/1923/50-N-D-478.md
 196 N.W. 556	decisions/north-dakota-supreme-court/1923/50-N-D-465.md
 196 N.W. 750	decisions/north-dakota-supreme-court/1923/50-N-D-446.md
@@ -5645,7 +5641,6 @@ reference	path
 2 N.D. 300	decisions/north-dakota-supreme-court/1891/2-N-D-300.md
 2 N.D. 310	decisions/north-dakota-supreme-court/1892/2-N-D-310.md
 2 N.D. 36	decisions/north-dakota-supreme-court/1891/2-N-D-36.md
-2 N.D. 395	decisions/north-dakota-supreme-court/1892/2-N-D-395--cap-5286603.md
 2 N.D. 395	decisions/north-dakota-supreme-court/1892/2-N-D-395.md
 2 N.D. 396	decisions/north-dakota-supreme-court/1892/2-N-D-396.md
 2 N.D. 397	decisions/north-dakota-supreme-court/1892/2-N-D-397--cap-5286974.md
@@ -21479,7 +21474,7 @@ reference	path
 50 N.D. 465	decisions/north-dakota-supreme-court/1923/50-N-D-465.md
 50 N.D. 478	decisions/north-dakota-supreme-court/1923/50-N-D-478.md
 50 N.D. 484	decisions/north-dakota-supreme-court/1923/50-N-D-484.md
-50 N.D. 485	decisions/north-dakota-supreme-court/1923/50-N-D-485.md
+50 N.D. 485	decisions/north-dakota-supreme-court/1923/50-N-D-484.md
 50 N.D. 487	decisions/north-dakota-supreme-court/1923/50-N-D-487.md
 50 N.D. 494	decisions/north-dakota-supreme-court/1924/50-N-D-494.md
 50 N.D. 511	decisions/north-dakota-supreme-court/1924/50-N-D-511.md
@@ -32083,14 +32078,8 @@ reference	path
 919 N.W.2d 914	decisions/north-dakota-supreme-court/2018/919-N-W-2d-914.md
 9193	decisions/north-dakota-supreme-court/1976/243-N-W-2d-350.md
 92 Cr.	decisions/north-dakota-supreme-court/1932/62-N-D-673.md
-92 N.W. 1133	decisions/north-dakota-supreme-court/1903/11-N-D-520--cap-2569456.md
 92 N.W. 1133	decisions/north-dakota-supreme-court/1903/11-N-D-520.md
-92 N.W. 1133	decisions/north-dakota-supreme-court/1903/11-N-D-521.md
-92 N.W. 1133	decisions/north-dakota-supreme-court/1903/11-N-D-522.md
-92 N.W. 1134	decisions/north-dakota-supreme-court/1903/11-N-D-524--cap-2569321.md
 92 N.W. 1134	decisions/north-dakota-supreme-court/1903/11-N-D-524.md
-92 N.W. 1134	decisions/north-dakota-supreme-court/1903/11-N-D-525--cap-2569532.md
-92 N.W. 1134	decisions/north-dakota-supreme-court/1903/11-N-D-525.md
 92 N.W. 381	decisions/north-dakota-supreme-court/1903/11-N-D-347.md
 92 N.W. 385	decisions/north-dakota-supreme-court/1903/11-N-D-356.md
 92 N.W. 449	decisions/north-dakota-supreme-court/1903/11-N-D-369.md
@@ -49686,7 +49675,7 @@ cap-2566727	decisions/north-dakota-supreme-court/1903/11-N-D-369.md
 cap-2566771	decisions/north-dakota-supreme-court/1903/11-N-D-484.md
 cap-2566834	decisions/north-dakota-supreme-court/1903/11-N-D-309.md
 cap-2566868	decisions/north-dakota-supreme-court/1903/11-N-D-559.md
-cap-2566935	decisions/north-dakota-supreme-court/1903/11-N-D-524--cap-2569321.md
+cap-2566935	decisions/north-dakota-supreme-court/1903/11-N-D-524.md
 cap-2566970	decisions/north-dakota-supreme-court/1903/11-N-D-120.md
 cap-2567027	decisions/north-dakota-supreme-court/1903/11-N-D-494.md
 cap-2567069	decisions/north-dakota-supreme-court/1903/11-N-D-92.md
@@ -49714,12 +49703,12 @@ cap-2568123	decisions/north-dakota-supreme-court/1903/11-N-D-534.md
 cap-2568163	decisions/north-dakota-supreme-court/1903/11-N-D-257.md
 cap-2568203	decisions/north-dakota-supreme-court/1903/11-N-D-391.md
 cap-2568249	decisions/north-dakota-supreme-court/1903/11-N-D-203.md
-cap-2568304	decisions/north-dakota-supreme-court/1903/11-N-D-525.md
+cap-2568304	decisions/north-dakota-supreme-court/1903/11-N-D-524.md
 cap-2568342	decisions/north-dakota-supreme-court/1903/11-N-D-113.md
 cap-2568398	decisions/north-dakota-supreme-court/1903/11-N-D-356.md
 cap-2568436	decisions/north-dakota-supreme-court/1903/11-N-D-65.md
 cap-2568454	decisions/north-dakota-supreme-court/1903/11-N-D-181.md
-cap-2568478	decisions/north-dakota-supreme-court/1903/11-N-D-521.md
+cap-2568478	decisions/north-dakota-supreme-court/1903/11-N-D-520.md
 cap-2568511	decisions/north-dakota-supreme-court/1903/11-N-D-529.md
 cap-2568532	decisions/north-dakota-supreme-court/1903/11-N-D-262.md
 cap-2568566	decisions/north-dakota-supreme-court/1903/11-N-D-249.md
@@ -49733,8 +49722,8 @@ cap-2568792	decisions/north-dakota-supreme-court/1903/11-N-D-38.md
 cap-2568831	decisions/north-dakota-supreme-court/1903/11-N-D-22.md
 cap-2568851	decisions/north-dakota-supreme-court/1903/11-N-D-407.md
 cap-2568884	decisions/north-dakota-supreme-court/1903/11-N-D-376.md
-cap-2568909	decisions/north-dakota-supreme-court/1903/11-N-D-521.md
-cap-2568937	decisions/north-dakota-supreme-court/1903/11-N-D-522.md
+cap-2568909	decisions/north-dakota-supreme-court/1903/11-N-D-520.md
+cap-2568937	decisions/north-dakota-supreme-court/1903/11-N-D-520.md
 cap-2568967	decisions/north-dakota-supreme-court/1903/11-N-D-399.md
 cap-2569002	decisions/north-dakota-supreme-court/1903/11-N-D-93.md
 cap-2569040	decisions/north-dakota-supreme-court/1903/11-N-D-526.md
@@ -49745,18 +49734,18 @@ cap-2569181	decisions/north-dakota-supreme-court/1903/11-N-D-45.md
 cap-2569210	decisions/north-dakota-supreme-court/1903/11-N-D-347.md
 cap-2569262	decisions/north-dakota-supreme-court/1903/11-N-D-342.md
 cap-2569293	decisions/north-dakota-supreme-court/1903/11-N-D-306.md
-cap-2569321	decisions/north-dakota-supreme-court/1903/11-N-D-524--cap-2569321.md
+cap-2569321	decisions/north-dakota-supreme-court/1903/11-N-D-524.md
 cap-2569357	decisions/north-dakota-supreme-court/1903/11-N-D-556.md
 cap-2569391	decisions/north-dakota-supreme-court/1903/11-N-D-386.md
 cap-2569429	decisions/north-dakota-supreme-court/1903/11-N-D-233.md
-cap-2569456	decisions/north-dakota-supreme-court/1903/11-N-D-520--cap-2569456.md
+cap-2569456	decisions/north-dakota-supreme-court/1903/11-N-D-520.md
 cap-2569498	decisions/north-dakota-supreme-court/1903/11-N-D-164.md
-cap-2569532	decisions/north-dakota-supreme-court/1903/11-N-D-525--cap-2569532.md
+cap-2569532	decisions/north-dakota-supreme-court/1903/11-N-D-524.md
 cap-2569566	decisions/north-dakota-supreme-court/1903/11-N-D-563.md
-cap-2569582	decisions/north-dakota-supreme-court/1903/11-N-D-520--cap-2569456.md
+cap-2569582	decisions/north-dakota-supreme-court/1903/11-N-D-520.md
 cap-2569617	decisions/north-dakota-supreme-court/1903/11-N-D-256.md
 cap-2569662	decisions/north-dakota-supreme-court/1903/11-N-D-55.md
-cap-2569682	decisions/north-dakota-supreme-court/1903/11-N-D-522.md
+cap-2569682	decisions/north-dakota-supreme-court/1903/11-N-D-520.md
 cap-2569727	decisions/north-dakota-supreme-court/1903/11-N-D-157.md
 cap-2569774	decisions/north-dakota-supreme-court/1903/11-N-D-374.md
 cap-2569807	decisions/north-dakota-supreme-court/1903/11-N-D-86.md
@@ -50712,7 +50701,7 @@ cap-4462103	decisions/north-dakota-supreme-court/1924/50-N-D-959.md
 cap-4462120	decisions/north-dakota-supreme-court/1923/50-N-D-443.md
 cap-4462138	decisions/north-dakota-supreme-court/1923/50-N-D-365.md
 cap-4462159	decisions/north-dakota-supreme-court/1923/50-N-D-71.md
-cap-4462174	decisions/north-dakota-supreme-court/1923/50-N-D-485.md
+cap-4462174	decisions/north-dakota-supreme-court/1923/50-N-D-484.md
 cap-4462193	decisions/north-dakota-supreme-court/1923/50-N-D-215.md
 cap-4462207	decisions/north-dakota-supreme-court/1923/50-N-D-420.md
 cap-4462223	decisions/north-dakota-supreme-court/1923/50-N-D-432.md
@@ -51595,7 +51584,7 @@ cap-5286497	decisions/north-dakota-supreme-court/1892/2-N-D-515.md
 cap-5286516	decisions/north-dakota-supreme-court/1891/2-N-D-232.md
 cap-5286547	decisions/north-dakota-supreme-court/1892/2-N-D-395.md
 cap-5286594	decisions/north-dakota-supreme-court/1891/2-N-D-229.md
-cap-5286603	decisions/north-dakota-supreme-court/1892/2-N-D-395--cap-5286603.md
+cap-5286603	decisions/north-dakota-supreme-court/1892/2-N-D-395.md
 cap-5286637	decisions/north-dakota-supreme-court/1891/2-N-D-53.md
 cap-5286680	decisions/north-dakota-supreme-court/1891/2-N-D-260.md
 cap-5286711	decisions/north-dakota-supreme-court/1891/2-N-D-46.md
@@ -56553,4 +56542,3 @@ cap-9511912	decisions/north-dakota-supreme-court/2002/640-N-W-2d-714.md
 cap-9511977	decisions/north-dakota-supreme-court/2002/640-N-W-2d-721.md
 cap-9512008	decisions/north-dakota-supreme-court/2002/640-N-W-2d-726.md
 cap-9512046	decisions/north-dakota-supreme-court/2002/640-N-W-2d-733.md
-— L.R.A. (N.S.) —, 130 N.W. 829	decisions/north-dakota-supreme-court/1911/21-N-D-271.md
